@@ -1,5 +1,6 @@
 # 5DayWeather
 
+[Click here to Launch](https://khmaister.github.io/5DayWeather/)
 
 # 06 Server-Side APIs: Weather Dashboard
 
